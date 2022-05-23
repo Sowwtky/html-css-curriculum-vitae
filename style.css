@@ -5,6 +5,9 @@ text-align: center;
 /*inizio stile header*/
 header {
     background-color: lightgray;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: goldenrod;
 }
 /*fine stile header*/
 /*inizio altezza pfp*/
