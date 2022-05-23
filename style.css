@@ -1,6 +1,10 @@
+/*commons*/
+.text-center {
+text-align: center;
+}
 /*inizio stile header*/
 header {
-    text-align: center;
+    background-color: lightgray;
 }
 /*fine stile header*/
 /*inizio altezza pfp*/
