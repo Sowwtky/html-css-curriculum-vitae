@@ -1,3 +1,10 @@
+/*inizio stile header*/
+header {
+    text-align: center;
+}
+/*fine stile header*/
+/*inizio altezza pfp*/
 #profile-pic {
     height: 250px;
 }
+/*fine altezza pfp*/
