@@ -24,8 +24,14 @@ header {
     height: 250px;
 }
 /*fine altezza pfp*/
-
-footer {
-    border-top: 1px solid goldenrod;
-    font-size: 10px;
+/*inizio stile main*/
+main {
+    border-bottom: 1px solid goldenrod;
 }
+/*fine stile main*/
+/*inizio stile footer*/
+footer {
+    font-size: 10px;
+    margin-top: 10px;
+}
+/*fine stile footer*/
